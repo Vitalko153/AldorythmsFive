@@ -7,4 +7,5 @@ public class Things {
         this.price = price;
         this.weight = weight;
     }
+
 }

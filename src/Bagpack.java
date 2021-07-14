@@ -8,6 +8,7 @@ public class Bagpack {
         this.capacity = capacity;
     }
 
+
     public Bagpack(Things[] baggage) {
         this.baggage = baggage;
     }
